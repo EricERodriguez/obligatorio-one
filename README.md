@@ -1,6 +1,30 @@
-# Getting Started with Create React App
+# Desarrollo en React JS <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="babel" width="40" height="40"/>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Aplicar y adaptar los conocimientos en programación web al desarrollo de aplicaciones SPA explotando las ventajas brindadas por `React` en cuanto al flujo de datos.
+
+![Centro de e-Learning UTN - Facultad Regional Buenos Aires](https://assets.utnba.centrodeelearning.com/public-api/files/ac72554134105c72997e8beb577018fa/images)
+
+##  Trabajo práctico del Modulo 1 (Obligatorio) <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="babel" width="40" height="40"/>
+
+**_Consigna:_**
+
+**Desarrollar el registro de una pagina web, en el registro tener los siguientes campos:**
+
+Nombre
+* Apellido
+* Email
+* Telefono
+* Password
+* Confirmar password
+
+Realizar solo el maquetado utilizando react js y JSX, no se deben guardar los usuarios ni realizar lógica de validación de los mismos.
+
+Formato de entrega:
+
+Enviar un archivo .rar o .zip con el siguiente formato: apellido_modulo1.rar
+
+Dentro del .rar o .zip se debe enviar el/los archivos generados por react (excepto node_modules)
+
 
 ## Available Scripts
 
@@ -38,33 +62,3 @@ If you aren’t satisfied with the build tool and configuration choices, you can
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
